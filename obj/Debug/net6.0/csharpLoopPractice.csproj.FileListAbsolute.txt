@@ -1,0 +1,15 @@
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\bin\Debug\net6.0\csharpLoopPractice.exe
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\bin\Debug\net6.0\csharpLoopPractice.deps.json
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\bin\Debug\net6.0\csharpLoopPractice.runtimeconfig.json
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\bin\Debug\net6.0\csharpLoopPractice.dll
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\bin\Debug\net6.0\csharpLoopPractice.pdb
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\obj\Debug\net6.0\csharpLoopPractice.csproj.AssemblyReference.cache
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\obj\Debug\net6.0\csharpLoopPractice.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\obj\Debug\net6.0\csharpLoopPractice.AssemblyInfoInputs.cache
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\obj\Debug\net6.0\csharpLoopPractice.AssemblyInfo.cs
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\obj\Debug\net6.0\csharpLoopPractice.csproj.CoreCompileInputs.cache
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\obj\Debug\net6.0\csharpLoopPractice.dll
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\obj\Debug\net6.0\refint\csharpLoopPractice.dll
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\obj\Debug\net6.0\csharpLoopPractice.pdb
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\obj\Debug\net6.0\csharpLoopPractice.genruntimeconfig.cache
+\\wsl$\Ubuntu-20.04\home\keith\workspace\csharpLoopPractice\obj\Debug\net6.0\ref\csharpLoopPractice.dll
